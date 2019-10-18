@@ -4,5 +4,5 @@ Const for Python
 ## Installation
 
 ```shell
-pip install const
+pip install pyconstant
 ```

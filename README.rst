@@ -9,5 +9,5 @@ Installation
 
 ::
 
-    pip install const
+    pip install pyconstant
 
